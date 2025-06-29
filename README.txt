@@ -1,4 +1,4 @@
-EduTrack (StudentHub) - Java Web Student Management System
+StudentHub - Java Web Student Management System
 =========================================================
 
 Stack:
