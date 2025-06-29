@@ -57,4 +57,4 @@ Contact:
 --------
 For help, contact your developer.
 
-Enjoy using EduTrack!
+Enjoy using StudentHub!
